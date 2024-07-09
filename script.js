@@ -1,3 +1,4 @@
+<script>
 function addJNCFooter() {
     const footer = document.createElement('footer');
     footer.innerHTML = 'JNC Edukasi. All rights reserved.';
@@ -13,3 +14,4 @@ function addJNCFooter() {
 document.addEventListener('DOMContentLoaded', function() {
       addJNCFooter();
   });
+</script>
